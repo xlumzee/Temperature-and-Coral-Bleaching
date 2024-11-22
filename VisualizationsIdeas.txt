@@ -1,0 +1,3 @@
+- compare all the 7 oceans and their temperatures and bleaching percentages
+
+- NLP techniques to Visualize research papers and articles
