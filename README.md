@@ -39,7 +39,20 @@
 1. [7 - Nature](https://www.nature.com/articles/s41467-019-09238-2)
    - this covers approximately 20 years of research
 
-### News Articles
+### News Articles from the Guardian
+
+1. [2024-11-14](https://www.theguardian.com/environment/2024/nov/14/worlds-largest-known-coral-discovered-in-solomon-islands')
+2. [2024-06-26](https://www.theguardian.com/environment/article/2024/jun/26/most-of-it-was-dead-scientists-discovers-one-of-great-barrier-reefs-worst-coral-bleaching-events')
+3. [2024-07-30](https://www.theguardian.com/environment/article/2024/jul/30/as-record-heat-risks-bleaching-73-of-the-worlds-coral-reefs-scientists-ask-what-do-we-do-now')
+4. [2024-11-19](https://www.theguardian.com/environment/2024/nov/19/graveyard-of-dead-coral-great-barrier-reef-bleaching-damage')
+5. [2024-04-15](https://www.theguardian.com/environment/2024/apr/15/great-barrier-reef-coral-bleaching-global-heating')
+6. [2024-09-09](https://www.theguardian.com/environment/article/2024/sep/09/sharks-deserting-coral-reefs-climate-crisis-heating-oceans-study')
+7. [2024-04-17](https://www.theguardian.com/environment/2024/apr/17/great-barrier-reef-extreme-coral-bleaching')
+8. [2024-02-28](https://www.theguardian.com/environment/2024/feb/28/aerial-surveys-of-great-barrier-reef-ordered-after-flights-confirm-mass-coral-bleaching')
+9. [2024-05-01](https://www.theguardian.com/environment/2024/may/01/great-barrier-reef-coral-bleaching-crisis')
+10. [2023-12-07](https://www.theguardian.com/environment/2023/dec/07/unprecedented-mass-coral-bleaching-expected-2024-professor-ove-hoegh-guldberg)
+
+### News Articles (Excluding the Guardian)
 
 1. [1 - CNN World 2024](https://www.cnn.com/2020/04/07/australia/great-barrier-reef-bleaching-2020-intl-hnk/index.html)
 2. [2 - climate.gov](https://www.climate.gov/news-features/featured-images/how-does-2023-24-global-coral-bleaching-compare-past-events)
