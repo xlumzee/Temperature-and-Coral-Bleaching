@@ -35,10 +35,20 @@ Coral bleaching disrupts marine ecosystems and fisheries, threatening biodiversi
 - NOAA’s Optimum Interpolation Sea Surface Temperature (OISST)
 
 
+
 ### **Things to do**
 
 - Data Collection
-    - Gather
-    - Clean
-    - Integrate
+    - Gather (done)
+    - Clean and structure it (In Progress)
+
+        - Correct data types 
+        - Remove irrelevant columns (done)
+
+        - Handle missing values
+        - Handling outliers
+        - Feature Engineering
+        - Final Data Validation
+
+    - Prep data for visualization
 - EDA
