@@ -1,0 +1,54 @@
+# **Analyzing the Relationship Between Ocean Temperature Anomalies and Coral Bleaching Events**
+
+### **Description**
+
+Investigate how anomalies in ocean temperatures correlate with the frequency and severity of coral bleaching events, using historical data and predictive analytics.
+
+### **Problem Addressed**
+
+Coral bleaching disrupts marine ecosystems and fisheries, threatening biodiversity and the livelihoods of communities dependent on coral reefs.
+
+### **Users/Stakeholders**
+
+- Marine conservationists
+- Environmental researchers
+- Policy makers
+- Tourism industry stakeholders
+
+### **Benefits**
+
+- Understanding triggers of coral bleaching
+- Developing strategies to mitigate bleaching impacts
+- Informing conservation and restoration efforts
+- Enhancing predictive capabilities for future bleaching events
+
+### **Potential Approaches**
+
+- Conduct time-series analysis to correlate temperature anomalies with bleaching incidents.
+- Use machine learning models to predict bleaching events based on temperature and other environmental factors.
+- Visualize spatial and temporal patterns of bleaching relative to ocean temperature changes.
+
+### **Datasets & Resources**
+
+- NOAA Coral Reef Watch
+- Global Coral Bleaching Database
+- NOAA’s Optimum Interpolation Sea Surface Temperature (OISST)
+
+
+
+### **Things to do**
+
+- Data Collection
+    - Gather (done)
+    - Clean and structure it (In Progress)
+
+        - Correct data types 
+        - Remove irrelevant columns (done)
+
+        - Handle missing values
+        - Handling outliers
+        - Feature Engineering
+        - Final Data Validation
+
+    - Prep data for visualization
+- EDA
