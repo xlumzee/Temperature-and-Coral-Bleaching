@@ -88,4 +88,17 @@ This repository explores the impact of ocean temperature anomalies on coral blea
 
 ---
 
+### Topic Modeling Insights
 
+Topic modeling was performed using published news articles about the damaging consequences of climante change on coral reefs due to bleaching events. Seven topics rlated to coral bleaching were identified in published articles over the last 5 years.
+
+**Who benefits**
+
+The revealed topics are beneficial to readers, including
+
+1. members of public looking to contribute to recovery efforts to preserve this natural resource (coral reefs)
+2. policy makers looking to understand factors involved in implementing reforms
+
+**How it aids recovery efforts**
+
+Identifies ongoing global efforts to offset impact of bleaching events on coral reefs, and possible obstacles that are being encountered.
